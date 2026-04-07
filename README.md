@@ -3,3 +3,4 @@ Lie detector
 
 Team members
 - MAURICIO VELA CHAVIRA
+- XIMENA CEDILLO
